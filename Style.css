@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp11177767.jpg");
+    background-size: cover;
+}
+.taj_Mahal{
+    height: 400px;
+}
+.emblem-of-India{
+    padding: 10px;
+}
+@media screen and (max-width: 500px){
+    .taj_Mahal{
+        margin-top: 20px;
+        height: 300px;
+    }
+    .india_Gate{
+        margin-top: 50px;
+        height: 300px;
+    }
+    .emblem-of-India{
+        margin-top: 60px;
+        padding: 10px;
+        height: 300px;
+    }
+}
